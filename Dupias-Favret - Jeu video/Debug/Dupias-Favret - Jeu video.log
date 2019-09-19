@@ -1,0 +1,11 @@
+﻿  global.c
+c:\users\ldupi\downloads\dragon-videogame-c-master\dupias-favret - jeu video\dupias-favret - jeu video\global.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.c
+c:\users\ldupi\downloads\dragon-videogame-c-master\dupias-favret - jeu video\dupias-favret - jeu video\global.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  map.c
+c:\users\ldupi\downloads\dragon-videogame-c-master\dupias-favret - jeu video\dupias-favret - jeu video\structs.h(9): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  perso.c
+c:\users\ldupi\downloads\dragon-videogame-c-master\dupias-favret - jeu video\dupias-favret - jeu video\structs.h(9): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  timer.c
+c:\users\ldupi\downloads\dragon-videogame-c-master\dupias-favret - jeu video\dupias-favret - jeu video\timer.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
